@@ -30,6 +30,7 @@ public class OneController {
         logger.error("日志输出 error");
         System.out.println("222222");
         System.out.println("44444");
+        System.out.println("55555");
         return "hello spring boot";
     }
 }
