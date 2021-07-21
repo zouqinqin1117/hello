@@ -31,6 +31,7 @@ public class OneController {
         System.out.println("222222");
         System.out.println("44444");
         System.out.println("55555");
+        System.out.println("66666");
         return "hello spring boot";
     }
 }
