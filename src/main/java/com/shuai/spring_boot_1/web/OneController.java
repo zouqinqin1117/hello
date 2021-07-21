@@ -28,7 +28,7 @@ public class OneController {
         logger.info("日志输出 info");
         logger.warn("日志输出 warn");
         logger.error("日志输出 error");
-        System.out.println("11111111");
+        System.out.println("222222");
         return "hello spring boot";
     }
 }
